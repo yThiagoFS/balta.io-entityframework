@@ -1,7 +1,10 @@
+using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
 using EntityFramework.Models.Entities;
 
 namespace EntityFramework.Models
 {
+    [Table("User")]
     public class User : Base
     {
         public string Name { get; set; }

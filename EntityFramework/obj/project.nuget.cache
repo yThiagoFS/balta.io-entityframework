@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gFdymCO/vFnNXv/zNRHBthf97J5ZmYmgPb2+aTlMFARB/B+VttlBZH5Y2QmKJLKNgnBE1QIa0QafFg5/PevDiQ==",
+  "dgSpecHash": "HOHDMETA80Mqq6IDhw5VnsVOfAIwy2IkyzWiZgQ5VlrK/CFQoP232m6emPRf7b4tLvAouxhWptEM6PbYydnnmQ==",
   "success": true,
-  "projectFilePath": "D:\\Projetos\\balta\\EntityFramework\\EntityFramework.csproj",
+  "projectFilePath": "D:\\Projetos\\balta\\ef-modulo\\EntityFramework\\EntityFramework.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Pichau\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\Pichau\\.nuget\\packages\\microsoft.data.sqlclient\\2.1.4\\microsoft.data.sqlclient.2.1.4.nupkg.sha512",

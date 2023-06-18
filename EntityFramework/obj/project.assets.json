@@ -1913,11 +1913,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Projetos\\balta\\EntityFramework\\EntityFramework.csproj",
+      "projectUniqueName": "D:\\Projetos\\balta\\ef-modulo\\EntityFramework\\EntityFramework.csproj",
       "projectName": "EntityFramework",
-      "projectPath": "D:\\Projetos\\balta\\EntityFramework\\EntityFramework.csproj",
+      "projectPath": "D:\\Projetos\\balta\\ef-modulo\\EntityFramework\\EntityFramework.csproj",
       "packagesPath": "C:\\Users\\Pichau\\.nuget\\packages\\",
-      "outputPath": "D:\\Projetos\\balta\\EntityFramework\\obj\\",
+      "outputPath": "D:\\Projetos\\balta\\ef-modulo\\EntityFramework\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

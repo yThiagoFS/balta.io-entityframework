@@ -13,14 +13,18 @@ namespace EntityFramework.Data
 
         // public DbSet<PostTag> PostTags { get; set; }
 
-        public DbSet<Tag> Tags { get; set; }
+        // public DbSet<Tag> Tags { get; set; }
 
         public DbSet<User> Users { get; set; }
 
-        public DbSet<Role> Roles { get; set; }
+        // public DbSet<Role> Roles { get; set; }
 
         // public DbSet<UserRole> UserRoles { get; set; }
 
-        protected override void OnConfiguring(DbContextOptionsBuilder opts) => opts.UseSqlServer(CONNECTION);
+        protected override void OnConfiguring(DbContextOptionsBuilder opts) 
+        {
+            opts.UseSqlServer(CONNECTION);
+            opts.LogTo(Console.WriteLine);
+        } 
     }
 }

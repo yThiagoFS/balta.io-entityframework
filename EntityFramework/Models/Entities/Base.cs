@@ -6,6 +6,7 @@ namespace EntityFramework.Models.Entities
     public abstract class Base 
     {
         [Key]
+        [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
         public int Id { get; set; }
     }
 }
